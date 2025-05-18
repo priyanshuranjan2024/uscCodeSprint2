@@ -1,4 +1,4 @@
-public class one {
+public class IceCream {
 
     public static boolean canBuyExactIceCream(int budget, int[] iceCreamPrices) {
         for (int price : iceCreamPrices) if (price == budget) return true;
